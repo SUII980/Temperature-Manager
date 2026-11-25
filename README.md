@@ -133,3 +133,6 @@ Gaming laptops and performance PCs often run hot during idle background tasks, l
 ## License
 
 Licensed under the [MIT License](LICENSE).
+## Acknowledgments
+
+Built with development assistance from Antigravity AI (Google DeepMind).
